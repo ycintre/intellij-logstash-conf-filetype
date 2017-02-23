@@ -1,0 +1,9 @@
+- and
+- else
+- else if
+- if
+- in
+- nand
+- not in
+- or
+- xor
