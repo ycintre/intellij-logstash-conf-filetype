@@ -8,7 +8,7 @@ Syntax highlight for logstash configuration files on all JetBrain IDEs (IntelliJ
 
 # Installation
 
-## Import settings (recommanded)
+## Import settings (recommended)
 1. Download [`logstash-conf.jar`](logstash-conf.jar)
 1. Open IntelliJ
 1. Click on `File` > `Import Settings...`
@@ -19,8 +19,8 @@ Syntax highlight for logstash configuration files on all JetBrain IDEs (IntelliJ
 ## Manual
 1. Download [`logstash-conf.xml`](logstash-conf.xml)
 1. Close IntelliJ
-1. Copy the `xml` to `<you_home_dir>\<intellij_settings_dir>\config\filetypes\` (create folder `filetypes` if it doesn't exists)
-1. Launch IntelliJ
+1. Copy the `xml` to `<your_home_dir>\<intellij_settings_dir>\config\filetypes\` (create folder `filetypes` if it doesn't exists)
+1. Open IntelliJ
 
 # Highlighted syntax and keywords
 The filetype use IntelliJ sandard 4 colors highlight system
